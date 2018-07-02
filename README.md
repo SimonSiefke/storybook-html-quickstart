@@ -1,5 +1,7 @@
 # Storybook Quickstart HTML
 
+> check out the [live demo](https://infallible-swirles-cc2ec6.netlify.com/?selectedKind=Demo&selectedStory=heading&full=0&addons=1&stories=1&panelRight=0)
+
 ## initialize
 
 ```bash
@@ -27,5 +29,3 @@ storiesOf('Button', module)
     return '<button style="background:blue;color:white;border-radius:10px;padding:1rem">i\'m blue</button>'
   })
 ```
-
-## Deploy
