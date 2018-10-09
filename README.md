@@ -1,5 +1,7 @@
 # Storybook Quickstart HTML
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SimonSiefke/storybook-html-quickstart.svg)](https://greenkeeper.io/)
+
 > check out the [live demo](https://infallible-swirles-cc2ec6.netlify.com/?selectedKind=Demo&selectedStory=heading&full=0&addons=1&stories=1&panelRight=0)
 
 ## initialize
